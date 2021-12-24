@@ -1,6 +1,3 @@
-Writing tomorrow's legacy code today!
+# Programmer driven by hope
 
-<!---
-hopedrivendeveloper/hopedrivendeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Why bother with tests, design, patterns, documentation, etc. Hope is everything programmer needs!
